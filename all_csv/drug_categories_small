@@ -1,0 +1,1096 @@
+Category_ID,Number_of_Drugs,Category_Name
+0,7,11-Hydroxycorticosteroids
+1,7,17-Hydroxycorticosteroids
+2,2,17-Ketosteroids
+3,1,2-Amino-1-Phenylethanol Derivatives
+4,3,3-Oxoandrosten (4) Derivatives
+5,1,5-Androstanon (3) Derivatives
+6,1,ACE Inhibitors and Calcium Channel Blockers
+7,1,Abortifacient Agents
+8,1,"Abortifacient Agents, Nonsteroidal"
+9,1,Acetamides
+10,1,Acetates
+11,1,Acid Sensing Ion Channel Blockers
+12,1,Acidifying Activity
+13,1,Acids
+14,4,"Acids, Acyclic"
+15,4,"Acids, Carbocyclic"
+16,1,"Acids, Noncarboxylic"
+17,1,Adamantane Derivatives
+18,1,Adamantanes
+19,4,Adjuvants
+20,6,"Adjuvants, Anesthesia"
+21,1,"Adjuvants, Immunologic"
+22,1,"Adjuvants, Pharmaceutic"
+23,1,"Administration, Topical"
+24,75,Adrenal Cortex Hormones
+25,15,Adrenals
+26,60,Adrenergic Agents
+27,39,Adrenergic Agonists
+28,25,Adrenergic Antagonists
+29,7,Adrenergic Uptake Inhibitors
+30,12,Adrenergic alpha-1 Receptor Agonists
+31,4,Adrenergic alpha-1 Receptor Antagonists
+32,6,Adrenergic alpha-2 Receptor Agonists
+33,16,Adrenergic alpha-Agonists
+34,5,Adrenergic alpha-Antagonists
+35,14,Adrenergic and Dopaminergic Agents
+36,8,Adrenergic beta-1 Receptor Agonists
+37,8,Adrenergic beta-1 Receptor Antagonists
+38,25,Adrenergic beta-2 Receptor Agonists
+39,6,Adrenergic beta-3 Receptor Agonists
+40,31,Adrenergic beta-Agonists
+41,23,Adrenergic beta-Antagonists
+42,1,Adrenergic beta2-Antagonists
+43,13,Adrenergics for Systemic Use
+44,18,"Adrenergics, Inhalants"
+45,1,Adrenocortical Insufficiency
+46,1,Adrenocorticotropic Hormone
+47,13,Agents Causing Muscle Toxicity
+48,34,Agents causing hyperkalemia
+49,7,Agents for Treatment of Hemorrhoids and Anal Fissures for Topical Use
+50,56,Agents producing tachycardia
+51,56,Agents that produce hypertension
+52,3,Agents that produce neuromuscular block (indirect)
+53,11,Agents that reduce seizure threshold
+54,19,Agents to Treat Airway Disease
+55,1,Alcohol Deterrents
+56,55,Alcohols
+57,51,Alimentary Tract and Metabolism
+58,30,Alkaloids
+59,1,Alkylating Activity
+60,1,Alkylating Drugs
+61,1,Alkylmercury Compounds
+62,2,Alpha and Beta Blocking Agents
+63,1,Alpha and Beta Blocking Agents and Thiazides
+64,1,Alpha-Galactosidase A (alpha-Gal A) Pharmacological Chaperones
+65,4,Alpha-and Beta-adrenergic Agonists
+66,1,Amaryllidaceae Alkaloids
+67,18,Amides
+68,74,Amines
+69,10,Amino Acids
+70,4,"Amino Acids, Aromatic"
+71,5,"Amino Acids, Cyclic"
+72,1,"Amino Acids, Essential"
+73,1,"Amino Acids, Neutral"
+74,31,"Amino Acids, Peptides, and Proteins"
+75,48,Amino Alcohols
+76,2,Aminoalkyl Ethers
+77,2,Aminobenzoates
+78,1,Aminobutyrates
+79,1,Ammonia Detoxicants
+80,2,Ammonium Compounds
+81,1,Amphetamine Anorectic
+82,9,Amphetamines
+83,1,Amylin Agonists
+84,1,Amylin Analog
+85,1,Amyloid
+86,1,Amyloidogenic Proteins
+87,6,Anabolic Agents
+88,5,Anabolic Agents for Systemic Use
+89,6,Anabolic Steroids
+90,31,Analgesics
+91,1,Analgesics and Anesthetics
+92,4,"Analgesics, Non-Narcotic"
+93,1,Androgen Receptor Antagonists
+94,1,Androgen Receptor Inhibitors
+95,8,Androgens
+96,4,Androgens and Estrogens
+97,1,Androstadienes
+98,5,Androstan Derivatives
+99,12,Androstanes
+100,4,Androstanols
+101,1,Androstenediols
+102,7,Androstenes
+103,4,Androstenols
+104,10,Anesthetics
+105,6,"Anesthetics, General"
+106,4,"Anesthetics, Intravenous"
+107,1,"Anesthetics, Local"
+108,1,Aniline Compounds
+109,1,Anions
+110,1,Anorexigenic Agents & Respiratory and CNS Stimulants
+111,1,"Anorexigenic Agents & Respiratory and Cerebral Stimulants, Miscellaneous"
+112,1,Anterior Pituitary Lobe Hormones and Analogues
+113,4,Anti-Acne Preparations
+114,4,Anti-Acne Preparations for Topical Use
+115,7,Anti-Allergic Agents
+116,3,Anti-Anxiety Agents
+117,21,Anti-Asthmatic Agents
+118,2,Anti-Bacterial Agents
+119,3,Anti-Dementia Drugs
+120,6,Anti-Dyskinesia Agents
+121,3,Anti-Estrogens
+122,2,Anti-Gonadotropin-Releasing Hormones
+123,4,Anti-Infective Agents
+124,1,"Anti-Infective Agents, Local"
+125,37,Anti-Inflammatory Agents
+126,4,Anti-Obesity Agents
+127,1,Anti-Parkinson Agents (Dopamine Agonist)
+128,7,Anti-Parkinson Drugs
+129,1,Anti-Ulcer Agents
+130,1,Anti-epileptic Agent
+131,1,Antiadrenal Preparations
+132,1,"Antiadrenergic Agents, Centrally Acting"
+133,1,"Antiadrenergic Agents, Ganglion-Blocking"
+134,2,Antiandrogens
+135,2,Antiandrogens and Estrogens
+136,4,Antianemic Preparations
+137,2,Antianginal Agents
+138,26,Antiarrhythmic agents
+139,2,Antibacterials for Systemic Use
+140,1,Antibiotics for Topical Use
+141,18,Anticholinergic Agents
+142,3,Anticoagulants
+143,10,Anticonvulsants
+144,1,Anticorticosteroids
+145,26,Antidepressive Agents
+146,4,Antidepressive Agents Indicated for Depression
+147,3,"Antidepressive Agents, Second-Generation"
+148,1,Antidiarrheals
+149,8,"Antidiarrheals, Intestinal Antiinflammatory/antiinfective Agents"
+150,2,Antidiuretic Agents
+151,2,Antidiuretic Hormone Receptor Antagonists
+152,3,Antidotes
+153,3,Antiemetics
+154,2,Antiemetics and Antinauseants
+155,1,Antiglaucoma Agents
+156,12,Antiglaucoma Preparations and Miotics
+157,2,Antigonadotropins and Similar Agents
+158,1,Antigout Preparations
+159,2,Antihistamines for Systemic Use
+160,38,Antihypertensive Agents
+161,24,Antihypertensive Agents Indicated for Hypertension
+162,4,Antiinfectives for Systemic Use
+163,1,Antimetabolites
+164,28,Antineoplastic Agents
+165,1,"Antineoplastic Agents, Alkylating"
+166,18,"Antineoplastic Agents, Hormonal"
+167,1,"Antineoplastic Agents, Phytogenic"
+168,22,Antineoplastic and Immunomodulating Agents
+169,8,"Antiobesity Preparations, Excl. Diet Products"
+170,1,Antioxidants
+171,3,Antiplatelet agents
+172,1,Antipropulsives
+173,1,Antipruritics
+174,1,Antipsoriatics
+175,1,Antipsoriatics for Topical Use
+176,2,Antipsychotic Agents
+177,1,Antipsychotic Agents (Second Generation [Atypical])
+178,2,Antirheumatic Agents
+179,1,Antithrombins
+180,7,Antitussive Agents
+181,3,Antiviral Agents
+182,2,Antivirals for Systemic Use
+183,2,Antivirals for treatment of HCV infections
+184,1,Aporphines
+185,4,Appetite Depressants
+186,1,Appetite Stimulants
+187,4,Appetite Suppression
+188,1,Arginine Vasopressin
+189,4,Aromatase Inhibitors
+190,1,Aryloxyacetic Acid Derivatives
+191,4,Autacoids
+192,54,Autonomic Agents
+193,1,Aza Compounds
+194,1,Azabicyclo Compounds
+195,1,BCRP/ABCG2 Inducers
+196,13,BCRP/ABCG2 Inhibitors
+197,11,BCRP/ABCG2 Substrates
+198,8,BSEP/ABCB11 Inhibitors
+199,6,BSEP/ABCB11 Substrates
+200,7,BSEP/ABCB11 inducers
+201,1,Bacitracins
+202,2,Barbiturates
+203,1,Barbiturates and Derivatives
+204,2,"Barbiturates, Plain"
+205,1,Basic Ointments and Protectants
+206,4,Benzazepines
+207,28,Benzene Derivatives
+208,1,Benzenesulfonamides
+209,2,Benzhydryl Compounds
+210,3,Benzoates
+211,1,Benzodiazepines and benzodiazepine derivatives
+212,1,Benzomorphan Derivatives
+213,1,Benzomorphans
+214,1,Benzophenones
+215,1,Benzopyrans
+216,7,Benzothiadiazines
+217,1,Benzyl Compounds
+218,6,Benzylidene Compounds
+219,3,Benzylisoquinolines
+220,12,Beta Blocking Agents and Thiazides
+221,10,"Beta Blocking Agents, Non-Selective"
+222,6,"Beta Blocking Agents, Non-Selective, and Thiazides"
+223,8,"Beta Blocking Agents, Selective"
+224,5,"Beta Blocking Agents, Selective, and Thiazides"
+225,4,Beta blocking agents and calcium channel blockers
+226,8,Beta-Blockers (Beta1 Selective)
+227,2,Beta-adrenergic Agents
+228,4,Bile Acid Preparations
+229,5,Bile Acids and Salts
+230,4,Bile Therapy
+231,4,Bile acids and derivatives
+232,5,Bile and Liver Therapy
+233,6,Biogenic Amines
+234,6,Biogenic Monoamines
+235,6,Biological Factors
+236,8,Blood Glucose Lowering Agents
+237,1,Blood Substitutes and Perfusion Solutions
+238,8,Blood and Blood Forming Organs
+239,3,Bone Density Conservation Agents
+240,1,Boron Compounds
+241,1,Boronic Acids
+242,37,Bradycardia-Causing Agents
+243,4,Bridged-Ring Compounds
+244,19,Bronchodilator Agents
+245,1,Bunolol
+246,1,Butyrates
+247,1,Butyrophenone Derivatives
+248,8,COMT Substrates
+249,8,Calcium Channel Blockers
+250,1,Calcium Channel Blockers (Nondihydropyridine)
+251,1,"Calcium Channels, N-Type"
+252,5,Calcium-Regulating Hormones and Agents
+253,1,"Calmodulin, antagonists & inhibitors"
+254,1,Cancer immunotherapy
+255,1,Cannabinoid Receptor Agonists
+256,2,Cannabinoids and similars
+257,2,Carbazoles
+258,10,Carbohydrates
+259,5,Carbonic Anhydrase Inhibitors
+260,1,Cardanolides
+261,1,Cardenolides
+262,1,Cardiac Glycosides
+263,1,Cardiac Rhythm Alteration
+264,14,Cardiac Stimulants Excl. Cardiac Glycosides
+265,19,Cardiac Therapy
+266,7,Cardiotonic Agents
+267,4,Cardiotoxic antineoplastic agents
+268,78,Cardiovascular Agents
+269,1,Catecholamine-depleting Sympatholytic
+270,8,Catecholamines
+271,11,Catechols
+272,2,Cell-mediated Immunity
+273,82,Central Nervous System Agents
+274,70,Central Nervous System Depressants
+275,15,Central Nervous System Stimulants
+276,8,Central Nervous System Stimulation
+277,8,Centrally Acting Antiobesity Products
+278,11,Centrally Acting Sympathomimetics
+279,1,Chemically-Induced Disorders
+280,2,Cholagogues and Choleretics
+281,5,Cholanes
+282,1,Cholelitholytic Agents
+283,5,Cholic Acids
+284,7,Cholinergic Agents
+285,7,Cholinesterase Inhibitors
+286,7,Cholinesterase substrates
+287,1,Clomiphene
+288,2,Coagulants
+289,1,"Cocaine, antagonists & inhibitors"
+290,13,Combination Contraceptives (with Estrogen and derivatives)
+291,8,Combined Inhibitors of Serotonin/Norepinephrine Reuptake
+292,1,Complex Mixtures
+293,15,"Compounds used in a research, industrial, or household setting"
+294,1,Conotoxins
+295,17,"Contraceptive Agents, Female"
+296,14,"Contraceptive Agents, Hormonal"
+297,3,"Contraceptive Agents, Male"
+298,16,"Contraceptives, Oral"
+299,10,"Contraceptives, Oral, Hormonal"
+300,8,"Contraceptives, Oral, Synthetic"
+301,3,"Contraceptives, Postcoital"
+302,3,Corpus Luteum Hormones
+303,28,Corticosteroid Hormone Receptor Agonists
+304,43,Corticosteroids
+305,7,Corticosteroids Acting Locally
+306,4,Corticosteroids for Local Oral Treatment
+307,14,Corticosteroids for Systemic Use
+308,13,"Corticosteroids for Systemic Use, Plain"
+309,30,"Corticosteroids, Dermatological Preparations"
+310,10,"Corticosteroids, Moderately Potent (Group II)"
+311,16,"Corticosteroids, Potent (Group III)"
+312,1,"Corticosteroids, Very Potent (Group IV)"
+313,3,"Corticosteroids, Weak (Group I)"
+314,1,Cortisol Synthesis Inhibitors
+315,5,Cough and Cold Preparations
+316,2,Cryoprotective Agents
+317,1,Curare Alkaloids
+318,1,Cyclic Lipopeptides
+319,1,Cyclodextrins
+320,2,Cyclohexanes
+321,1,Cyclohexanols
+322,5,Cycloparaffins
+323,2,Cyclopropanes
+324,1,"Cytochrome P-450 CYP11B2, antagonists & inhibitors"
+325,6,Cytochrome P-450 CYP1A2 Inducers
+326,6,Cytochrome P-450 CYP1A2 Inducers (strength unknown)
+327,12,Cytochrome P-450 CYP1A2 Inhibitors
+328,3,Cytochrome P-450 CYP1A2 Inhibitors (moderate)
+329,6,Cytochrome P-450 CYP1A2 Inhibitors (strength unknown)
+330,2,Cytochrome P-450 CYP1A2 Inhibitors (strong)
+331,3,Cytochrome P-450 CYP1A2 Inhibitors (weak)
+332,16,Cytochrome P-450 CYP1A2 Substrates
+333,2,Cytochrome P-450 CYP1A2 Substrates with a Narrow Therapeutic Index
+334,8,Cytochrome P-450 CYP2A6 Inducers
+335,6,Cytochrome P-450 CYP2A6 Inhibitors
+336,2,Cytochrome P-450 CYP2A6 Inhibitors (strength unknown)
+337,2,Cytochrome P-450 CYP2A6 Inhibitors (strong)
+338,2,Cytochrome P-450 CYP2A6 Inhibitors (weak)
+339,7,Cytochrome P-450 CYP2A6 Substrates
+340,1,Cytochrome P-450 CYP2A6 Substrates with a Narrow Therapeutic Index
+341,12,Cytochrome P-450 CYP2B6 Inducers
+342,10,Cytochrome P-450 CYP2B6 Inducers (strength unknown)
+343,1,Cytochrome P-450 CYP2B6 Inducers (strong)
+344,1,Cytochrome P-450 CYP2B6 Inducers (weak)
+345,8,Cytochrome P-450 CYP2B6 Inhibitors
+346,1,Cytochrome P-450 CYP2B6 Inhibitors (moderate)
+347,4,Cytochrome P-450 CYP2B6 Inhibitors (strength unknown)
+348,2,Cytochrome P-450 CYP2B6 Inhibitors (strong)
+349,1,Cytochrome P-450 CYP2B6 Inhibitors (weak)
+350,20,Cytochrome P-450 CYP2B6 Substrates
+351,1,Cytochrome P-450 CYP2B6 Substrates with a Narrow Therapeutic Index
+352,5,Cytochrome P-450 CYP2C18 Substrates
+353,1,Cytochrome P-450 CYP2C18 Substrates with a Narrow Therapeutic Index
+354,10,Cytochrome P-450 CYP2C19 Inducers
+355,10,Cytochrome P-450 CYP2C19 Inducers (strength unknown)
+356,17,Cytochrome P-450 CYP2C19 Inhibitors
+357,1,Cytochrome P-450 CYP2C19 Inhibitors (moderate)
+358,6,Cytochrome P-450 CYP2C19 Inhibitors (weak)
+359,28,Cytochrome P-450 CYP2C19 Substrates
+360,3,Cytochrome P-450 CYP2C19 Substrates with a Narrow Therapeutic Index
+361,9,Cytochrome P-450 CYP2C19 inhibitors (strength unknown)
+362,12,Cytochrome P-450 CYP2C8 Inducers
+363,12,Cytochrome P-450 CYP2C8 Inducers (strength unknown)
+364,1,Cytochrome P-450 CYP2C8 Inducers (strong)
+365,18,Cytochrome P-450 CYP2C8 Inhibitors
+366,4,Cytochrome P-450 CYP2C8 Inhibitors (moderate)
+367,11,Cytochrome P-450 CYP2C8 Inhibitors (strength unknown)
+368,4,Cytochrome P-450 CYP2C8 Inhibitors (strong)
+369,1,Cytochrome P-450 CYP2C8 Inhibitors (weak)
+370,22,Cytochrome P-450 CYP2C8 Substrates
+371,9,Cytochrome P-450 CYP2C9 Inducers
+372,9,Cytochrome P-450 CYP2C9 Inducers (strength unknown)
+373,19,Cytochrome P-450 CYP2C9 Inhibitors
+374,1,Cytochrome P-450 CYP2C9 Inhibitors (moderate)
+375,16,Cytochrome P-450 CYP2C9 Inhibitors (strength unknown)
+376,1,Cytochrome P-450 CYP2C9 Inhibitors (strong)
+377,2,Cytochrome P-450 CYP2C9 Inhibitors (weak)
+378,30,Cytochrome P-450 CYP2C9 Substrates
+379,3,Cytochrome P-450 CYP2C9 Substrates with a Narrow Therapeutic Index
+380,27,Cytochrome P-450 CYP2D6 Inhibitors
+381,3,Cytochrome P-450 CYP2D6 Inhibitors (moderate)
+382,15,Cytochrome P-450 CYP2D6 Inhibitors (strength unknown)
+383,1,Cytochrome P-450 CYP2D6 Inhibitors (strong)
+384,9,Cytochrome P-450 CYP2D6 Inhibitors (weak)
+385,52,Cytochrome P-450 CYP2D6 Substrates
+386,3,Cytochrome P-450 CYP2D6 Substrates with a Narrow Therapeutic Index
+387,4,Cytochrome P-450 CYP2E1 Inducers
+388,4,Cytochrome P-450 CYP2E1 Inducers (strength unknown)
+389,1,Cytochrome P-450 CYP2E1 Inducers (weak)
+390,6,Cytochrome P-450 CYP2E1 Inhibitors
+391,3,Cytochrome P-450 CYP2E1 Inhibitors (strength unknown)
+392,1,Cytochrome P-450 CYP2E1 Inhibitors (strong)
+393,3,Cytochrome P-450 CYP2E1 Inhibitors (weak)
+394,8,Cytochrome P-450 CYP2E1 Substrates
+395,2,Cytochrome P-450 CYP2E1 Substrates with a Narrow Therapeutic Index
+396,43,Cytochrome P-450 CYP3A Inducers
+397,4,Cytochrome P-450 CYP3A Inducers (strong)
+398,35,Cytochrome P-450 CYP3A Inhibitors
+399,136,Cytochrome P-450 CYP3A Substrates
+400,42,Cytochrome P-450 CYP3A4 Inducers
+401,2,Cytochrome P-450 CYP3A4 Inducers (moderate)
+402,36,Cytochrome P-450 CYP3A4 Inducers (strength unknown)
+403,4,Cytochrome P-450 CYP3A4 Inducers (strong)
+404,2,Cytochrome P-450 CYP3A4 Inducers (weak)
+405,33,Cytochrome P-450 CYP3A4 Inhibitors
+406,5,Cytochrome P-450 CYP3A4 Inhibitors (moderate)
+407,19,Cytochrome P-450 CYP3A4 Inhibitors (strength unknown)
+408,4,Cytochrome P-450 CYP3A4 Inhibitors (strong)
+409,7,Cytochrome P-450 CYP3A4 Inhibitors (weak)
+410,135,Cytochrome P-450 CYP3A4 Substrates
+411,9,Cytochrome P-450 CYP3A4 Substrates (strength unknown)
+412,6,Cytochrome P-450 CYP3A4 Substrates with a Narrow Therapeutic Index
+413,23,Cytochrome P-450 CYP3A5 Inducers
+414,3,Cytochrome P-450 CYP3A5 Inducers (moderate)
+415,18,Cytochrome P-450 CYP3A5 Inducers (strength unknown)
+416,1,Cytochrome P-450 CYP3A5 Inducers (strong)
+417,2,Cytochrome P-450 CYP3A5 Inducers (weak)
+418,9,Cytochrome P-450 CYP3A5 Inhibitors
+419,1,Cytochrome P-450 CYP3A5 Inhibitors (moderate)
+420,6,Cytochrome P-450 CYP3A5 Inhibitors (strength unknown)
+421,2,Cytochrome P-450 CYP3A5 Inhibitors (weak)
+422,33,Cytochrome P-450 CYP3A5 Substrates
+423,1,Cytochrome P-450 CYP3A5 Substrates with a Narrow Therapeutic Index
+424,4,Cytochrome P-450 CYP3A7 Inducers
+425,4,Cytochrome P-450 CYP3A7 Inducers (strength unknown)
+426,6,Cytochrome P-450 CYP3A7 Inhibitors
+427,5,Cytochrome P-450 CYP3A7 Inhibitors (strength unknown)
+428,1,Cytochrome P-450 CYP3A7 Inhibitors (weak)
+429,22,Cytochrome P-450 CYP3A7 Substrates
+430,1,Cytochrome P-450 CYP3A7 Substrates with a Narrow Therapeutic Index
+431,49,Cytochrome P-450 Enzyme Inducers
+432,70,Cytochrome P-450 Enzyme Inhibitors
+433,170,Cytochrome P-450 Substrates
+434,1,Cytochrome P450 11B1 Inhibitors
+435,1,Cytolytic Agent
+436,1,Cytosine Nucleotides
+437,2,Decongestants and Antiallergics
+438,1,Decreased Autonomic Ganglionic Activity
+439,1,Decreased Cell Membrane Integrity
+440,1,Decreased Cell Wall Synthesis & Repair
+441,2,Decreased Central Nervous System Disorganized Electrical Activity
+442,1,Decreased GnRH Secretion
+443,2,Decreased Renal K+ Excretion
+444,1,Decreased Sympathetic Activity
+445,3,Delayed-Action Preparations
+446,1,Dental Agents
+447,36,Dermatologicals
+448,1,Dextrins
+449,6,Diagnostic Agents
+450,1,Diagnostic Uses of Chemicals
+451,1,"Diazepines, Oxazepines, Thiazepines and Oxepines"
+452,1,"Diet, Food, and Nutrition"
+453,1,Dietary Carbohydrates
+454,2,Dietary Supplements
+455,1,Digitalis Glycosides
+456,1,Dimethylamines
+457,1,Diphenylpropylamine Derivatives
+458,2,Direct Acting Antivirals
+459,1,Disaccharides
+460,36,Diuretics
+461,15,Dopamine Agents
+462,1,Dopamine Agonists
+463,1,Dopamine And Norepinephrine Reuptake Inhibitors
+464,1,Dopamine Antagonists
+465,1,Dopamine D2 Receptor Antagonists
+466,11,Dopamine Uptake Inhibitors
+467,1,"Dopamine, metabolism"
+468,1,Drug Delivery Systems
+469,5,Drugs Used in Addictive Disorders
+470,2,Drugs Used in Alcohol Dependence
+471,8,Drugs Used in Diabetes
+472,1,Drugs Used in Erectile Dysfunction
+473,3,Drugs Used in Opioid Dependence
+474,19,Drugs causing inadvertant photosensitivity
+475,1,Drugs for Acid Related Disorders
+476,9,Drugs for Constipation
+477,2,Drugs for Functional Gastrointestinal Disorders
+478,30,Drugs for Obstructive Airway Diseases
+479,1,Drugs for Peptic Ulcer and Gastro-Oesophageal Reflux Disease (Gord)
+480,71,Drugs that are Mainly Renally Excreted
+481,1,"EENT Drugs, Miscellaneous"
+482,3,Eicosanoids
+483,1,Electrolyte Solutions
+484,1,Electrolytes
+485,1,Emetics
+486,16,Endocrine Therapy
+487,1,Enemas
+488,1,Enzyme Activators
+489,1,Enzyme Inducing Antiepileptic Drugs
+490,25,Enzyme Inhibitors
+491,4,Epinephrine and similars
+492,2,Epithelial Sodium Channel Blockers
+493,1,Erythropoiesis-Stimulating Agents
+494,1,Esters of Benzoic Acid
+495,7,Estradiol Congeners
+496,1,"Estradiol, agonists"
+497,8,Estranes
+498,2,Estren Derivatives
+499,8,Estrenes
+500,3,Estrogen Agonist-antagonists
+501,6,Estrogen Agonist/Antagonist
+502,9,Estrogen Antagonists
+503,3,Estrogen Contraceptives
+504,1,Estrogen Receptor Antagonists
+505,6,Estrogen Receptor Modulators
+506,1,"Estrogenic Steroids, Alkylated"
+507,7,Estrogens
+508,1,"Estrogens, Antiestrogens, and Estrogen Agonist-Antagonists"
+509,1,"Estrogens, Non-Steroidal"
+510,2,"Estrogens, agonists"
+511,19,Ethanolamines
+512,17,Ethylamines
+513,1,Ethylene Glycols
+514,4,Excitatory Amino Acid Agents
+515,5,Excitatory Amino Acid Antagonists
+516,3,Experimental Unapproved Treatments for COVID-19
+517,1,Factor VIII Activator
+518,1,Farnesoid X Receptor Agonist
+519,1,Farnesoid X Receptor Agonists
+520,4,Fatty Acids
+521,3,"Fatty Acids, Unsaturated"
+522,1,"Fatty Acids, Volatile"
+523,1,Fatty Alcohols
+524,4,Fentanyl and fentanyl analogues
+525,4,Fertility Agents
+526,4,"Fertility Agents, Female"
+527,1,Fluids and Secretions
+528,2,Folic Acid Analogues
+529,1,Folic Acid Antagonists
+530,1,Folic Acid and Derivatives
+531,1,Food
+532,91,Fused-Ring Compounds
+533,6,GABA Agents
+534,1,GABA Agonists
+535,5,GABA Modulators
+536,1,GABA-B Receptor Agonists
+537,1,GLP-1 Agonists
+538,1,Gaba-derivative Skeletal Muscle Relaxants
+539,2,Ganglion Blockers
+540,1,Gastrins
+541,12,Gastrointestinal Agents
+542,2,Gastrointestinal Hormones
+543,62,Genito Urinary System and Sex Hormones
+544,1,Glucagon-like peptide-1 (GLP-1) analogues
+545,1,Glucans
+546,18,Glucocorticoids
+547,1,Glycolates
+548,1,Glycols
+549,2,Glycoside Hydrolase Inhibitors
+550,3,Glycosides
+551,13,Gonadal Hormones
+552,13,Gonadal Steroid Hormones
+553,5,Gonadotropin Releasing Hormone Receptor Agonist
+554,5,Gonadotropin Releasing Hormone Receptor Agonists
+555,1,Gonadotropin Releasing Hormone Receptor Antagonists
+556,1,"Gonadotropin-Releasing Hormone, agonists"
+557,2,"Gonadotropin-Releasing Hormone, antagonists & inhibitors"
+558,1,Gonadotropin-releasing Hormone Antagonists
+559,7,Gonadotropin-releasing hormone agonist
+560,1,Gonadotropins
+561,3,Gonadotropins and Antigonadotropins
+562,1,Growth Hormone Secretagogue Receptor Agonist
+563,1,Growth Hormone Secretagogue Receptor Agonists
+564,1,Growth Substances
+565,1,Guanylate Cyclase Activators
+566,1,Guanylate Cyclase-C Agonist
+567,1,Guanylyl Cyclase C Agonists
+568,19,Gynecological Antiinfectives and Antiseptics
+569,2,HCV NS3/4A Protease Inhibitors
+570,1,HCV Protease Inhibitors
+571,1,Hallucinogens
+572,1,Harringtonines
+573,1,Hematinics
+574,7,Hematologic Agents
+575,3,Hemostatics
+576,2,Hepatotoxic Agents
+577,1,Herbs and Natural Products
+578,1,"Heroin, agonists"
+579,64,"Heterocyclic Compounds, Fused-Ring"
+580,1,Hexanols
+581,5,High-Ceiling Diuretics
+582,2,High-Ceiling Diuretics and Potassium-Sparing Agents
+583,9,High-risk opioids
+584,4,Highest Risk QTc-Prolonging Agents
+585,1,Histamine Agents
+586,3,Histamine Antagonists
+587,3,Histamine H1 Antagonists
+588,1,Histamine H2 Antagonists
+589,1,Histamine H3 Antagonists
+590,19,Hormonal Contraceptives for Systemic Use
+591,18,Hormone Antagonists
+592,8,Hormone Antagonists and Related Agents
+593,74,Hormones
+594,8,Hormones and Related Agents
+595,89,"Hormones, Hormone Substitutes, and Hormone Antagonists"
+596,1,Hydrazines
+597,1,"Hydrocarbons, Chlorinated"
+598,2,"Hydrocarbons, Halogenated"
+599,4,Hydrocortisone and derivatives
+600,3,Hydroxy Acids
+601,1,Hydroxybenzoates
+602,8,Hydroxycorticosteroids
+603,1,Hydroxylamines
+604,1,Hydroxyprogesterones
+605,1,Hydroxyquinolines
+606,58,Hyperglycemia-Associated Agents
+607,6,Hypnotics and Sedatives
+608,5,Hypoglycemia-Associated Agents
+609,56,Hypotensive Agents
+610,10,Hypothalamic Hormones
+611,3,"Hypoxia-Inducible Factor-Proline Dioxygenases, antagonists & inhibitors"
+612,1,Hypoxia-inducible Factor Prolyl Hydroxylase Inhibitor
+613,1,I.V. Solution Additives
+614,2,Imides
+615,1,Imines
+616,1,Imino Acids
+617,2,Imino Pyranoses
+618,2,Imino Sugars
+619,3,Immunologic Factors
+620,47,Immunosuppressive Agents
+621,1,Immunotherapy
+622,1,Increased Blood Pressure
+623,1,Increased Coagulation Factor VIII Activity
+624,1,Increased Coagulation Factor VIII Concentration
+625,11,Increased Diuresis
+626,4,Increased Diuresis at Loop of Henle
+627,2,Increased Histamine Release
+628,1,Increased IgG Production
+629,1,Increased Medullary Respiratory Drive
+630,1,Increased Norepinephrine Activity
+631,4,Increased Sympathetic Activity
+632,1,Incretin Mimetics
+633,1,Indans
+634,2,Indenes
+635,2,Indole Alkaloids
+636,4,Indoles
+637,2,Indolizidines
+638,2,Indolizines
+639,1,Inducers of Drug Clearance
+640,3,Inflammation Mediators
+641,1,Influenza A M2 Protein Inhibitor
+642,1,Inhibit Ovum Fertilization
+643,7,Intestinal Antiinflammatory Agents
+644,1,"Intraocular Pressure, drug effects"
+645,2,Intravaginal Contraceptives
+646,1,Ions
+647,1,Irrigating Solutions
+648,2,Isoindoles
+649,3,Isonipecotic Acids
+650,4,Isoquinolines
+651,3,Ketones
+652,2,Ketosteroids
+653,2,Kinase Inhibitor
+654,1,Laboratory Chemicals
+655,1,Lactams
+656,2,Lactones
+657,5,Laxatives
+658,1,"Laxatives, magnesium containing"
+659,1,Lipid Modifying Agents
+660,6,Lipids
+661,1,Lipopeptide Antibacterial
+662,1,Lipopeptides
+663,1,Liver Therapy
+664,1,"Liver Therapy, Lipotropics"
+665,1,Local Anesthetics (Ester)
+666,1,Local Hemostatics
+667,7,Long-acting beta-adrenoceptor agonists
+668,5,Low-Ceiling Diuretics and Potassium-Sparing Agents
+669,5,"Low-Ceiling Diuretics, Excl. Thiazides"
+670,1,Luteolytic Agents
+671,1,M2 Protein Inhibitors
+672,4,MATE 1 Inhibitors
+673,2,MATE 1 Substrates
+674,2,MATE 2 Inhibitors
+675,1,MATE 2 Substrates
+676,4,MATE inhibitors
+677,2,MATE substrates
+678,1,Macromolecular Substances
+679,1,Magnesium Compounds
+680,1,Magnesium Salts
+681,1,Marine Toxins
+682,1,Megestrol
+683,1,Melanocortins
+684,37,Membrane Transport Modulators
+685,1,Mercurial Diuretics
+686,1,Mesenchymal Epithelial Transition Inhibitors
+687,1,Metal cations
+688,1,Metal divalent cations
+689,1,Metaproterenol
+690,4,Methemoglobinemia Associated Agents
+691,2,Methylphenidate and isomer
+692,1,Micronutrients
+693,2,Mineral Supplements
+694,2,Mineralocorticoid (Aldosterone) Receptor Antagonists
+695,4,Mineralocorticoid Receptor Antagonists
+696,2,Mineralocorticoids
+697,2,Miscellaneous Anticonvulsants
+698,2,Miscellaneous Antidepressants
+699,2,Miscellaneous Antiemetics
+700,1,Miscellaneous Calcium-channel Blocking Agents
+701,1,Miscellaneous Central Nervous System Agents
+702,4,Miscellaneous GI Drugs
+703,2,Miscellaneous Therapeutic Agents
+704,1,Miscellaneous Vasodilatating Agents
+705,4,Mixed Agonist / Antagonist Opioids
+706,6,Moderate Risk QTc-Prolonging Agents
+707,1,Molecular Probes
+708,1,Mollusk Venoms
+709,1,Monoamine Oxidase A Inhibitors
+710,8,Monoamine Oxidase A Inhibitors  for interaction with Monoamine Oxidase A substrates
+711,3,Monoamine Oxidase A Substrates
+712,2,Monoamine Oxidase B Inhibitors
+713,4,Monoamine Oxidase Inhibitors
+714,2,"Monoamine Oxidase Inhibitors, Non-Selective"
+715,2,Morphinan Derivatives
+716,19,Morphinans
+717,8,Morphine Derivatives
+718,2,Morpholines
+719,8,Muscarinic Antagonists
+720,6,Muscle Relaxants
+721,2,"Muscle Relaxants, Centrally Acting Agents"
+722,5,"Muscle Relaxants, Peripherally Acting Agents"
+723,6,Musculo-Skeletal System
+724,1,Mustard Compounds
+725,3,Mydriatics
+726,2,Mydriatics and Cycloplegics
+727,2,Myelosuppressive Agents
+728,1,N-Calcium Channel Receptor Antagonists
+729,1,N-methyl-D-aspartate Receptor Antagonist
+730,7,NMDA Receptor Antagonists
+731,2,NS3/4A Protease Inhibitors
+732,4,Naphthalenes
+733,22,Narcotics
+734,11,Narrow Therapeutic Index Drugs
+735,4,Nasal Decongestants
+736,3,Nasal Decongestants for Systemic Use
+737,19,Nasal Preparations
+738,28,Natriuretic Agents
+739,7,Natural Opium Alkaloids
+740,5,"Natural and Semisynthetic Estrogens, Plain"
+741,9,Negative Inotrope
+742,7,Nephrotoxic agents
+743,11,Nerve Tissue Proteins
+744,65,Nervous System
+745,3,Neuraxial Anesthetics
+746,1,Neuroactive Steroid Gamma-Aminobutyric Acid (GABA) A Receptor Positive Modulators
+747,2,Neuroactive Steroid Gamma-Aminobutyric Acid A Receptor Positive Modulator
+748,4,Neuromuscular Agents
+749,4,Neuromuscular Blocking Agents
+750,1,Neuromuscular Nondepolarizing Blockade
+751,4,Neuromuscular-Blocking Agents (Nondepolarizing)
+752,11,Neuropeptides
+753,3,Neuroprotective Agents
+754,2,Neurotoxic agents
+755,84,Neurotransmitter Agents
+756,14,Neurotransmitter Uptake Inhibitors
+757,1,Nicotinic Acids
+758,11,Nicotinic Antagonists
+759,2,Nitrate Vasodilator
+760,2,Nitrates and Nitrites
+761,2,Nitric Oxide Donors
+762,2,Nitriles
+763,2,Nitrogen Compounds
+764,1,Nitrogen Mustard Compounds
+765,8,Non Potassium Sparing Diuretics
+766,1,Non-Selective Calcium Channel Blockers
+767,1,Non-Standardized Chemical Allergen
+768,3,Non-selective Beta-adrenergic Agonists
+769,1,Nonergot-derivative Dopamine Receptor Agonists
+770,1,Nonsteroidal Mineralocorticoid-Receptor Antagonist
+771,2,Nootropic Agents
+772,1,Norbornanes
+773,2,Norepinephrine Releasing Agents
+774,2,Norepinephrine Reuptake Inhibitor
+775,4,Norepinephrine Uptake Inhibitors
+776,1,"Norepinephrine, Serotonin, and Dopamine Reuptake Inhibitor Anorectic"
+777,1,"Norepinephrine, antagonists & inhibitors"
+778,11,Norpregnanes
+779,2,Norpregnatrienes
+780,8,Norpregnenes
+781,12,Norsteroids
+782,2,Noxae
+783,1,Nucleic Acid Synthesis Inhibitors
+784,1,"Nucleic Acids, Nucleotides, and Nucleosides"
+785,1,Nucleotides
+786,3,OAT1/SLC22A6 Substrates
+787,14,OAT1/SLC22A6 inhibitors
+788,2,OAT3/SLC22A8 Inducers
+789,8,OAT3/SLC22A8 Inhibitors
+790,16,OAT3/SLC22A8 Substrates
+791,1,OAT3/SLC22A8 Substrates with a Narrow Therapeutic Index
+792,1,OATP1B1/SLCO1B1 Inducers
+793,14,OATP1B1/SLCO1B1 Inhibitors
+794,9,OATP1B1/SLCO1B1 Substrates
+795,1,OATP1B3 inducers
+796,6,OATP1B3 inhibitors
+797,9,OATP1B3 substrates
+798,3,OATP2B1/SLCO2B1 substrates
+799,9,OCT1 inhibitors
+800,9,OCT1 substrates
+801,15,OCT2 Inhibitors
+802,8,OCT2 Substrates
+803,1,Ointments
+804,10,Oligopeptides
+805,3,Onium Compounds
+806,3,Ophthalmics
+807,5,Ophthalmological and Otological Preparations
+808,30,Ophthalmologicals
+809,16,Opiate Agonists
+810,21,Opiate Alkaloids
+811,2,Opiate Antagonists
+812,4,Opiate Partial Agonists
+813,14,Opioid Agonist
+814,2,Opioid Agonist/Antagonist
+815,5,Opioid Anesthetics
+816,12,Opioid Antagonists
+817,27,Opioids
+818,4,"Opioids, Anilidopiperidine"
+819,5,Opium Alkaloids and Derivatives
+820,1,Optical Imaging Agent
+821,4,Oral Hypoglycemics
+822,2,Organic Anion Transporting Polypeptide 1B1 Inhibitors
+823,2,Organic Anion Transporting Polypeptide 1B3 Inhibitors
+824,1,Organic Anion Transporting Polypeptide 2B1 Inhibitors
+825,2,Organic Nitrates
+826,1,Organomercury Compounds
+827,1,Organometallic Compounds
+828,1,Oripavine Derivatives
+829,1,Osmotic Activity
+830,4,Osmotic Laxatives
+831,1,Other Cold and Cough Preparations
+832,1,Other Diagnostics
+833,2,Other Miscellaneous Therapeutic Agents
+834,6,Otologicals
+835,3,Ototoxic agents
+836,1,"Ovulation Stimulants, Synthetic"
+837,4,Oxazines
+838,1,Oxytocin and Analogues
+839,14,P-glycoprotein inducers
+840,27,P-glycoprotein inhibitors
+841,49,P-glycoprotein substrates
+842,5,P-glycoprotein substrates with a Narrow Therapeutic Index
+843,3,Pancreatic Hormones
+844,2,Parasympathomemetic (Cholinergic) Agents
+845,1,Parasympathomimetics
+846,1,Partial Opioid Agonist/Antagonist
+847,2,Pentacyclic Triterpenes
+848,1,"Pentagastrin, antagonists & inhibitors"
+849,14,Peptide Hormones
+850,20,Peptides
+851,2,"Peptides, Cyclic"
+852,91,Peripheral Nervous System Agents
+853,4,Peripheral Opioid Receptor Antagonists
+854,3,Peripheral Vasodilators
+855,1,Peripheral alpha-1 blockers
+856,1,Pharmaceutic Aids
+857,4,Pharmaceutical Preparations
+858,20,Phenanthrenes
+859,19,Phenethylamines
+860,1,Phenobarbital and similars
+861,13,Phenols
+862,1,Phenoxyacetates
+863,14,Phenoxypropanolamines
+864,3,Phenylacetates
+865,1,Phenylalkylamine Derivatives
+866,6,Phenylpiperidine opioids
+867,1,Phenylurea Compounds
+868,19,Photosensitizing Agents
+869,1,Phthalimides
+870,1,"Pigments, Biological"
+871,1,Piperazines
+872,1,Piperidinedione Derivatives
+873,18,Piperidines
+874,2,Piperidones
+875,2,Pituitary
+876,1,Pituitary Function
+877,1,Pituitary Hormone Release Inhibiting Hormones
+878,6,Pituitary Hormone-Releasing Hormones
+879,5,Pituitary Hormones
+880,1,"Pituitary Hormones, Anterior"
+881,4,"Pituitary Hormones, Posterior"
+882,9,Pituitary and Hypothalamic Hormones and Analogues
+883,3,Platelet Aggregation Inhibitors Excl. Heparin
+884,1,Polymers
+885,1,Polysaccharides
+886,3,Posterior Pituitary Lobe Hormones
+887,4,Potassium-Sparing Diuretics
+888,25,Potential QTc-Prolonging Agents
+889,2,Prednisolone and Prodrugs
+890,5,Pregnadien Derivatives
+891,6,Pregnadienediols
+892,31,Pregnadienes
+893,15,Pregnadienetriols
+894,50,Pregnanes
+895,1,Pregnen (4) Derivatives
+896,13,Pregnenediones
+897,18,Pregnenes
+898,1,Preparations Increasing Uric Acid Excretion
+899,1,Pro-Opiomelanocortin
+900,1,Prodrugs
+901,5,Progesterone Congeners
+902,2,Progesterone and Derivatives
+903,1,"Progesterone, antagonists & inhibitors"
+904,13,Progestin Contraceptives
+905,2,Progestin-containing Intrauterine Device
+906,19,Progestins
+907,12,"Progestogens and Estrogens, Sequential Preparations"
+908,24,Propanolamines
+909,24,Propanols
+910,1,Propionates
+911,1,Propylamines
+912,3,Prostacyclin Analogues
+913,1,Prostacycline Vasodilator
+914,3,Prostaglandins
+915,2,Prostaglandins I
+916,1,"Prostaglandins, Synthetic"
+917,2,Protease Inhibitors
+918,1,Proteasome Inhibitors
+919,12,Protective Agents
+920,1,"Protein Kinase C, antagonists & inhibitors"
+921,2,Protein Kinase Inhibitors
+922,1,Protein Synthesis Inhibitors
+923,1,"Protein-Lysine 6-Oxidase, antagonists & inhibitors"
+924,1,Proteinogenic Amino Acids
+925,13,Proteins
+926,1,"Proto-Oncogene Proteins c-met, antagonists & inhibitors"
+927,22,Psychoanaleptics
+928,7,Psycholeptics
+929,11,"Psychostimulants, Agents Used for ADHD and Nootropics"
+930,14,Psychotropic Drugs
+931,4,Pteridines
+932,3,Pterins
+933,1,Purine Derivatives
+934,1,Purines
+935,1,Purinones
+936,1,Pyrans
+937,2,Pyrazines
+938,3,Pyridines
+939,1,Pyrimidine Nucleotides
+940,5,Pyrimidines
+941,4,Pyrimidinones
+942,4,Pyrrolidines
+943,3,Pyrrolidinones
+944,39,QTc Prolonging Agents
+945,1,QTc shortening agents
+946,1,Quaternary Ammonium Compounds
+947,1,Quinazolines
+948,1,Quinazolinones
+949,3,Quinolines
+950,1,Quinolones
+951,1,Receptor Tyrosine Kinase Inhibitors
+952,1,"Receptors, AMPA"
+953,1,Replacement Preparations
+954,29,Reproductive Control Agents
+955,33,Respiratory System Agents
+956,1,Respiratory and CNS Stimulants
+957,1,Ribonucleotides
+958,1,Salicylamides
+959,1,Secologanin Tryptamine Alkaloids
+960,1,Secondary and Tertiary Amines
+961,2,Selective Beta 1-adrenergic Agonists
+962,15,Selective Beta 2-adrenergic Agonists
+963,1,Selective Calcium Channel Blockers With Direct Cardiac Effects
+964,8,Selective Estrogen Receptor Modulators
+965,2,Selective Serotonin Reuptake Inhibitors
+966,4,Semi-synthetic Opioids
+967,27,Sensory Organs
+968,36,Sensory System Agents
+969,1,Serine Protease Inhibitors
+970,48,Serotonergic Drugs Shown to Increase Risk of Serotonin Syndrome
+971,3,Serotonin 5-HT1 Receptor Antagonists
+972,3,Serotonin 5-HT1A Receptor Antagonists
+973,1,Serotonin 5-HT2 Receptor Agonists
+974,1,Serotonin 5-HT2 Receptor Antagonists
+975,1,Serotonin 5-HT2C Receptor Antagonists
+976,20,Serotonin Agents
+977,14,Serotonin Modulators
+978,1,Serotonin Receptor Agonists
+979,5,Serotonin Receptor Antagonists
+980,3,Serotonin and Noradrenaline Reuptake Inhibitors
+981,37,Sex Hormones and Modulators of the Genital System
+982,1,Sigma-1 Agonist
+983,1,Sigma-1 Receptor Agonists
+984,1,Sodium
+985,2,Sodium Channel Blockers
+986,12,Sodium Chloride Symporter Inhibitors
+987,5,Sodium Potassium Chloride Symporter Inhibitors
+988,1,"Sodium-Glucose Transport Proteins, antagonists & inhibitors"
+989,1,"Sodium-Glucose Transporter 1, antagonists & inhibitors"
+990,4,Sodium-Glucose Transporter 2 Inhibitors
+991,4,Sodium-glucose Cotransporter 2 (SGLT2) Inhibitors
+992,1,Solvents
+993,1,Somatostatin Agonists
+994,1,Somatostatin Receptor Agonists
+995,1,Somatostatin and Analogues
+996,1,Standardized Chemical Allergen
+997,1,Starch
+998,4,Steroid Synthesis Inhibitors
+999,90,Steroids
+1000,2,"Steroids, Chlorinated"
+1001,19,"Steroids, Fluorinated"
+1002,6,Stilbenes
+1003,5,Stimulants
+1004,1,Stimulation Large Intestine Fluid/Electrolyte Secretion
+1005,4,Stomatological Preparations
+1006,1,Succinimide Derivatives
+1007,1,Succinimides
+1008,4,Sugar Alcohols
+1009,1,Sulfanilamides
+1010,1,Sulfates
+1011,24,Sulfonamides
+1012,23,Sulfones
+1013,2,Sulfur Acids
+1014,28,Sulfur Compounds
+1015,2,Sulfuric Acids
+1016,2,Supplements
+1017,10,Sympatholytics
+1018,7,Sympathomimetic (Adrenergic) Agents
+1019,2,Sympathomimetic Amine Anorectic
+1020,1,Sympathomimetic-like Agent
+1021,31,Sympathomimetics
+1022,2,Sympathomimetics Excl. Antiglaucoma Preparations
+1023,2,Sympathomimetics Used as Decongestants
+1024,2,Sympathomimetics in Glaucoma Therapy
+1025,3,"Sympathomimetics, Labour Repressants"
+1026,3,"Sympathomimetics, Plain"
+1027,1,"Synthetic Anticholinergics, Quaternary Ammonium Compounds"
+1028,23,"Systemic Hormonal Preparations, Excl. Sex Hormones and Insulins"
+1029,4,Terpenes
+1030,2,Tertiary Amines
+1031,5,Testosterone Congeners
+1032,2,Testosterone and derivatives
+1033,1,Tests for Bile Duct Patency
+1034,1,Tests for Fertility Disturbances
+1035,1,Tests for Gastric Secretion
+1036,1,Tests for Pituitary Function
+1037,1,Tetrahydroisoquinolines
+1038,1,Tetrahydronaphthalenes
+1039,3,Thiadiazoles
+1040,3,Thiazide-like Diuretic
+1041,9,Thiazides
+1042,3,Thiazoles
+1043,2,Throat Preparations
+1044,1,Thrombin Inhibitors
+1045,7,Thyroxine-binding globulin inducers
+1046,21,Thyroxine-binding globulin inhibitors
+1047,1,Thyroxine-binding globulin substrates
+1048,8,Tocolytic Agents
+1049,2,Toxic Actions
+1050,1,"Toxins, Biological"
+1051,6,Tranquilizing Agents
+1052,1,Treatments for Hepatitis C
+1053,2,Triazoles
+1054,1,Triose Sugar Alcohols
+1055,2,Triterpenes
+1056,1,Tropanes
+1057,1,Tumor Necrosis Factor Blockers
+1058,2,Tyrosine Kinase Inhibitors
+1059,4,UGT1A1 Inducers
+1060,3,UGT1A1 Inhibitors
+1061,18,UGT1A1 Substrates
+1062,7,UGT1A3 substrates
+1063,1,UGT1A4 Inhibitors
+1064,4,UGT1A4 substrates
+1065,14,UGT1A9 Substrates
+1066,2,UGT2B17 substrates
+1067,1,UGT2B7 Inhibitors
+1068,1,UGT2B7 Substrates with a Narrow Therapeutic Index
+1069,1,UGT2B7 inducers
+1070,20,UGT2B7 substrates
+1071,1,Uncompetitive N-methyl-D-aspartate Receptor Antagonist
+1072,1,Uncompetitive NMDA Receptor Antagonists
+1073,1,Uricosuric Agents
+1074,1,Urologicals
+1075,1,Uterotonic agents
+1076,1,Various Alimentary Tract and Metabolism Products
+1077,14,Vasoconstrictor Agents
+1078,21,Vasodilating Agents
+1079,3,Vasodilation
+1080,3,Vasodilators Used in Cardiac Diseases
+1081,1,Vasopressin Analog
+1082,1,Vasopressin V2 Receptor Antagonist
+1083,1,Vasopressin V2 Receptor Antagonists
+1084,2,Vasopressin and Analogues
+1085,2,Vasopressins
+1086,8,Vasoprotectives
+1087,1,Venoms
+1088,1,Verapamil and analogues
+1089,1,Vitamin B Complex
+1090,1,Vitamin B12 and Folic Acid
+1091,1,Vitamins
+1092,3,Wakefulness-Promoting Agents
+1093,1,gamma-Aminobutyric Acid-ergic Agonist
+1094,1,meta-Aminobenzoates
